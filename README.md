@@ -1,4 +1,4 @@
-# KASIR APEX
+# KASIR APEX / MinangPOS
 
 ### RM Minang Bpk Samsul — V0.0.1
 
