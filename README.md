@@ -323,8 +323,21 @@ Status   : DEVELOPMENT
 
 ## License
 
-This project is open source and licensed under the **MIT License**.
+## License
 
-You are free to use, modify, improve, and redistribute the project.
+**Kasir Apex** is open source software licensed under the **MIT License**.
 
-See the [`LICENSE`](LICENSE) file for the complete license text.
+You are free to:
+
+* Use the project
+* Copy the source code
+* Modify and customize it
+* Add new features
+* Use it as a learning resource
+* Redistribute the original or modified version
+* Use it as the foundation for another project
+
+The only requirement is that the original copyright and license notice are retained in copies or substantial portions of the software.
+
+See the [`LICENSE`](LICENSE) file for the complete license terms.
+
